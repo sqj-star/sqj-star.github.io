@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sqj-star.github.io/sitemap.xml
